@@ -1,0 +1,4 @@
+stop_id,stop_name,stop_lat,stop_lon
+HUB,Central Exchange,40.7128,-74.0060
+NORTH,North Market,40.7200,-74.0100
+EAST,East Library,40.7140,-73.9900

@@ -1,0 +1,3 @@
+trip_id,stop_id,arrival_time
+R1_IN_0800,HUB,08:05:00
+R1_IN_0830,HUB,08:44:00
